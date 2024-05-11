@@ -26,10 +26,9 @@
         <div class="w-full flex">
           <img src="@/assets/img/selfit_logo.png" alt="origo energia logo" class="h-36" />
           <span class="p-4">
-            A Selfit Academias é uma rede de academias em rápido crescimento no Brasil, com o
-            objetivo de oferecer a melhor infraestrutura fitness do país. A Selfit oferece
-            equipamentos de última geração, professores altamente qualificados e uma variedade de
-            modalidades exclusivas.
+            Rede de academias em rápido crescimento no Brasil, com o objetivo de oferecer a melhor
+            infraestrutura fitness do país. A Selfit oferece equipamentos de última geração,
+            professores altamente qualificados e uma variedade de modalidades exclusivas.
           </span>
         </div>
         <div class="w-full flex justify-end">
