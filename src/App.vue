@@ -1,6 +1,6 @@
 <template>
   <NavBar />
-  <RouterView class="w-full h-[100vh] flex flex-col justify-start items-center pt-24 space-y-10"/>
+  <RouterView class="w-full min-h-[100vh] flex flex-col justify-start items-center pt-24 space-y-10"/>
   <Footer />
 </template>
 

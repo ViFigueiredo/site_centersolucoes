@@ -1,5 +1,5 @@
 <template>
-  <div class="w-full h5 p-4 flex justify-between items-center bg-gray-300 font-light text-sm">
+  <div class="w-full bottom-0 h5 p-4 flex justify-between items-center bg-gray-300 font-light text-sm mt-20">
     <div class="flex flex-col items-start">
       <span>CENTER TELECOM SERVICOS EM TELECOMUNICACOES LTDA</span>
       <span>CPNJ: 08.645.168/0001-66</span>
